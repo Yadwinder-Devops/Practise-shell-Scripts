@@ -13,5 +13,7 @@ whoami
 
 echo "okok mera naam haiga"
 
+echo "changes in dev branch"
+
 uname
 
