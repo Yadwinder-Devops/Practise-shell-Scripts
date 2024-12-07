@@ -5,8 +5,10 @@ source directory destination directory and creating your own timestamp
 put everything to your backupdirectory.
 and zip it to avoid consuming excessive space.
 howtobackup
+# This is the new comment in dev branch of back.ssh file
 
- source_dir="/home/ubuntu/practiceshellscritps"
+
+source_dir="/home/ubuntu/practiceshellscritps"
  destination_dir="/home/ubuntu/backups"
 
  function back_up {
